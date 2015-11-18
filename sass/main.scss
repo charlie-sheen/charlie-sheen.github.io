@@ -40,6 +40,9 @@ h2 {
 .output-canvas {
   border: 3px dashed #000;
   margin: 0 auto;
+  background-image: url(/img/icon.png);
+  background-size: cover;
+  position: relative;
 }
 
 .download {
